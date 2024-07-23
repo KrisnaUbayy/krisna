@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\QuisMTK\obj\Debug\QuisMTK.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\QuisMTK\obj\Debug\QuisMTK.Properties.Resources.resources
+C:\Users\USER\source\repos\QuisMTK\obj\Debug\QuisMTK.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\QuisMTK\obj\Debug\QuisMTK.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QuisMTK\bin\Debug\QuisMTK.exe.config
+C:\Users\USER\source\repos\QuisMTK\bin\Debug\QuisMTK.exe
+C:\Users\USER\source\repos\QuisMTK\bin\Debug\QuisMTK.pdb
+C:\Users\USER\source\repos\QuisMTK\obj\Debug\QuisMTK.Form1.resources
+C:\Users\USER\source\repos\QuisMTK\obj\Debug\QuisMTK.exe
+C:\Users\USER\source\repos\QuisMTK\obj\Debug\QuisMTK.pdb
